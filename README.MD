@@ -48,4 +48,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Maviya Sk.
+Insta: [Follow on Insta](https://www.instagram.com/connect2maviya/)
