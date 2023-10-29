@@ -11,7 +11,7 @@ int main(){
 	if (access(filename, F_OK) ==0){
 		printf("The file '%s' is present in the current directory.\n",filename);
 	}else{
-		printf("The file '%s' is not present in the current directory.\n",filename;
+		printf("The file '%s' is not present in the current directory.\n",filename);
 	}
 	return 0;
 }
