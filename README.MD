@@ -1,4 +1,4 @@
-# C Programming Practical Assignments
+# C Programming Practical Assignments (Programs will be added shortly)
 
 This repository contains solutions to a series of practical assignments in C programming. Each assignment is briefly described below.
 
