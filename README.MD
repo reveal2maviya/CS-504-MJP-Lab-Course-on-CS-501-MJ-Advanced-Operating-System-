@@ -1,4 +1,4 @@
-# C Programming Practical Assignments (Programs will be added shortly!!)
+# C Programming Practical Assignments
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 This repository contains solutions to a series of practical assignments in C programming. Each assignment is briefly described below.
